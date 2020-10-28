@@ -14,7 +14,7 @@ namespace Strategy_Pattern_Creating_an_invoice.Business.Strategies.Invoice
                 NetworkCredential credentials = new NetworkCredential("USERNAME", "PASSWORD");
                 client.Credentials = credentials;
 
-                MailMessage mail = new MailMessage("YOUR EMAIL", "YOUR EMAIL")
+                MailMessage mail = new MailMessage("nomanmuhammad510@gmail.com", "nomanmuhammad510@gmail.com")
                 {
                     Subject = "We've created an invoice for your order",
                     Body = GenerateTextInvoice(order)
