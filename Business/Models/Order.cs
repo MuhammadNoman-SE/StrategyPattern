@@ -21,9 +21,10 @@ namespace Strategy_Pattern_First_Look.Business.Models
         public ShippingDetails ShippingDetails { get; set; }
 
         public ISaleTaxStrategy SaleTaxStrategy { get; set; }
-        public decimal GetTax()
+        public decimal GetTax(ISaleTaxStrategy saleTaxStrategy=default)
         {
-            return SaleTaxStrategy.GetTax(this);
+            
+            return saleTaxStrategy?.GetTax(this) ?? SaleTaxStrategy?.GetTax(this)??0m;
             
         }
     }
