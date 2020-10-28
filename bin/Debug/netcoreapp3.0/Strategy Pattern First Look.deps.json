@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Strategy Pattern First Look/1.0.0": {
+        "runtime": {
+          "Strategy Pattern First Look.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Strategy Pattern First Look/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
