@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "htORCAVCqc9+1kxtvPqHR/RyfJFiumP0J+VA2DDYndmzjaZ0RGPupnO6CLtJ0eMuj5xmCKQdYHyttrXEpg4LmA==",
+  "dgSpecHash": "T9udLfZk6rpPif4BfqJqZObmfKiVq+aDBPFV/2Fg8JLuaW9VujJbPe7Jz9XjxR0mEI0x0sPF9GINu4hoHfbJRw==",
   "success": true,
   "projectFilePath": "D:\\StrategyPattern\\StrategyPattern\\Strategy Pattern First Look.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Muhammad.Noman\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Users\\Muhammad.Noman\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
     "C:\\Users\\Muhammad.Noman\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
     "C:\\Users\\Muhammad.Noman\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
